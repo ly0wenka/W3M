@@ -429,95 +429,95 @@ trigger gg_trg_Power_Treads_Strength_Convert= null
 trigger gg_trg_Power_Treads_Agility_Convert= null
 trigger gg_trg_Power_Treads_Intelligence_Convert= null
 trigger gg_trg_Aghanim_Scepter= null
-trigger gg_trg_Mjollnir= null
-trigger gg_trg_Flying_Courier= null
-trigger gg_trg_Boots_of_Travel= null
-trigger gg_trg_Black_King_Bar= null
-trigger gg_trg_Necronomicon_Level_1= null
-trigger gg_trg_Necronomicon_Level_2= null
-trigger gg_trg_Necronomicon_Level_3= null
 trigger gg_trg_Arcane_Ring= null
 trigger gg_trg_Butterfly= null
 trigger gg_trg_Buriza_do_Kyanon= null
 trigger gg_trg_Blade_Mail= null
 trigger gg_trg_Bracer= null
 trigger gg_trg_Battle_Fury= null
+trigger gg_trg_Boots_of_Travel= null
+trigger gg_trg_Black_King_Bar= null
+trigger gg_trg_Crystalys= null
+trigger gg_trg_Cranium_Basher= null
 trigger gg_trg_Dagon_1= null
 trigger gg_trg_Dagon_2= null
 trigger gg_trg_Dagon_3= null
 trigger gg_trg_Dagon_4= null
 trigger gg_trg_Dagon_5= null
-trigger gg_trg_Linkens_Sphere= null
-trigger gg_trg_Manta_Style= null
-trigger gg_trg_Crystalys= null
-trigger gg_trg_Cranium_Basher= null
 trigger gg_trg_Divine_Rapier= null
-trigger gg_trg_Vanguard= null
+trigger gg_trg_Diffusal_Blade= null
 trigger gg_trg_Eye_of_Skadi= null
 trigger gg_trg_Eul_Scepter_of_Divinity= null
-trigger gg_trg_Stygian_Desolator= null
-trigger gg_trg_Sange_and_Yasha= null
-trigger gg_trg_Mekansm= null
-trigger gg_trg_Refresher_Orb= null
-trigger gg_trg_Lothar_Edge= null
+trigger gg_trg_Flying_Courier= null
 trigger gg_trg_Guinsoo_Scythe_of_Vyse= null
-trigger gg_trg_Satanic= null
-trigger gg_trg_Yasha= null
-trigger gg_trg_Diffusal_Blade= null
+trigger gg_trg_Hand_of_Midas= null
+trigger gg_trg_Heart_of_Tarrasque= null
+trigger gg_trg_Headdress_of_Rejuvenation= null
+trigger gg_trg_Helm_of_Dominator= null
+trigger gg_trg_Linkens_Sphere= null
+trigger gg_trg_Lothar_Edge= null
+trigger gg_trg_Manta_Style= null
+trigger gg_trg_Mekansm= null
 trigger gg_trg_Maelstrom= null
-trigger gg_trg_Sange= null
+trigger gg_trg_Mask_of_Madness= null
+trigger gg_trg_Mjollnir= null
+trigger gg_trg_Monkey_King_Bar= null
+trigger gg_trg_Natherzim_Buckler= null
+trigger gg_trg_Necronomicon_Level_1= null
+trigger gg_trg_Necronomicon_Level_2= null
+trigger gg_trg_Necronomicon_Level_3= null
+trigger gg_trg_Null_Talisman= null
+trigger gg_trg_Oblivion_Staff= null
+trigger gg_trg_Perseverance= null
 trigger gg_trg_Power_Treads_Strength= null
 trigger gg_trg_Power_Treads_Agility= null
 trigger gg_trg_Power_Treads_Intelligent= null
-trigger gg_trg_Hand_of_Midas= null
-trigger gg_trg_Radiance= null
-trigger gg_trg_Mask_of_Madness= null
-trigger gg_trg_Wraith_Band= null
-trigger gg_trg_Null_Talisman= null
-trigger gg_trg_Natherzim_Buckler= null
-trigger gg_trg_Headdress_of_Rejuvenation= null
-trigger gg_trg_Soul_Booster= null
-trigger gg_trg_Monkey_King_Bar= null
-trigger gg_trg_Oblivion_Staff= null
-trigger gg_trg_Perseverance= null
-trigger gg_trg_Helm_of_Dominator= null
 trigger gg_trg_Ring_of_Basilius= null
-trigger gg_trg_Heart_of_Tarrasque= null
-trigger gg_trg_The_Butterfly_Scroll= null
-trigger gg_trg_Flying_Courier_Scroll= null
+trigger gg_trg_Radiance= null
+trigger gg_trg_Refresher_Orb= null
+trigger gg_trg_Stygian_Desolator= null
+trigger gg_trg_Sange_and_Yasha= null
+trigger gg_trg_Sange= null
+trigger gg_trg_Satanic= null
+trigger gg_trg_Soul_Booster= null
+trigger gg_trg_Wraith_Band= null
+trigger gg_trg_Vanguard= null
+trigger gg_trg_Yasha= null
 trigger gg_trg_Arcane_Ring_Scroll= null
-trigger gg_trg_Linkens_Sphere_Scroll= null
-trigger gg_trg_Dagon_Scroll= null
-trigger gg_trg_Mana_Style_Scroll= null
 trigger gg_trg_Black_King_Bar_Scroll= null
-trigger gg_trg_Crystalys_Scroll= null
 trigger gg_trg_Boots_of_Travel_Scroll= null
+trigger gg_trg_Blade_Mail_Scroll= null
+trigger gg_trg_Bracer_Scroll= null
 trigger gg_trg_Buriza_do_Kyanon_Scroll= null
+trigger gg_trg_The_Butterfly_Scroll= null
+trigger gg_trg_Cranium_Basher_Scroll= null
+trigger gg_trg_Crystalys_Scroll= null
+trigger gg_trg_Dagon_Scroll= null
+trigger gg_trg_Diffusal_Blade_Scroll= null
+trigger gg_trg_Eul_Scepter_of_Divinity_Scroll= null
+trigger gg_trg_Eye_of_Skadi_Scroll= null
+trigger gg_trg_Flying_Courier_Scroll= null
+trigger gg_trg_Headdress_of_Rejuvenation_Scroll= null
+trigger gg_trg_Heart_of_Tarrasque_Scroll= null
+trigger gg_trg_Linkens_Sphere_Scroll= null
+trigger gg_trg_Lothar_Edge_Scroll= null
+trigger gg_trg_Maelstrom_Scroll= null
+trigger gg_trg_Mask_of_Madness_Scroll= null
+trigger gg_trg_Mana_Style_Scroll= null
+trigger gg_trg_Mekansm_Scroll= null
 trigger gg_trg_Necronomicon_Scroll= null
 trigger gg_trg_Stygian_Desolator_Scroll= null
 trigger gg_trg_Sange_and_Yasha_Scroll= null
-trigger gg_trg_Mekansm_Scroll= null
 trigger gg_trg_Refresher_Orb_Scroll= null
-trigger gg_trg_Eul_Scepter_of_Divinity_Scroll= null
-trigger gg_trg_Lothar_Edge_Scroll= null
-trigger gg_trg_Eye_of_Skadi_Scroll= null
 trigger gg_trg_Satanic_Scroll= null
-trigger gg_trg_Yasha_Scroll= null
-trigger gg_trg_Diffusal_Blade_Scroll= null
-trigger gg_trg_Maelstrom_Scroll= null
-trigger gg_trg_Blade_Mail_Scroll= null
-trigger gg_trg_Cranium_Basher_Scroll= null
 trigger gg_trg_Sange_Scroll= null
 trigger gg_trg_Power_Treads_Scroll= null
 trigger gg_trg_Hand_of_Midas_Scroll= null
 trigger gg_trg_Radiance_Scroll= null
-trigger gg_trg_Mask_of_Madness_Scroll= null
-trigger gg_trg_Bracer_Scroll= null
-trigger gg_trg_Wraith_Band_Scroll= null
 trigger gg_trg_Null_Talisman_Scroll= null
 trigger gg_trg_Natherzim_Buckler_Scroll= null
-trigger gg_trg_Headdress_of_Rejuvenation_Scroll= null
-trigger gg_trg_Heart_of_Tarrasque_Scroll= null
+trigger gg_trg_Wraith_Band_Scroll= null
+trigger gg_trg_Yasha_Scroll= null
 trigger gg_trg_Regrow_Trees_Setup= null
 trigger gg_trg_RegrowTrees= null
 trigger gg_trg_Goblin_Shop= null
@@ -8448,6 +8448,49 @@ function InitTrig_Divine_Rapier takes nothing returns nothing
 endfunction
 
 //===========================================================================
+// Trigger: Diffusal Blade
+//===========================================================================
+function Trig_Diffusal_Blade_Func007C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I025')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00U') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U')) == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ciri')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Diffusal_Blade_Conditions takes nothing returns boolean
+    if ( not Trig_Diffusal_Blade_Func007C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Diffusal_Blade_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I025'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ciri'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U'))
+    call UnitAddItemByIdSwapped('I024', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Diffusal_Blade takes nothing returns nothing
+    set gg_trg_Diffusal_Blade=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Diffusal_Blade, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Diffusal_Blade, Condition(function Trig_Diffusal_Blade_Conditions))
+    call TriggerAddAction(gg_trg_Diffusal_Blade, function Trig_Diffusal_Blade_Actions)
+endfunction
+
+//===========================================================================
 // Trigger: Eye of Skadi
 //===========================================================================
 function Trig_Eye_of_Skadi_Func007C takes nothing returns boolean
@@ -8569,6 +8612,501 @@ function InitTrig_Flying_Courier takes nothing returns nothing
 endfunction
 
 //===========================================================================
+// Trigger: Guinsoo Scythe of Vyse
+//===========================================================================
+function Trig_Guinsoo_Scythe_of_Vyse_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I008')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'prvt') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Guinsoo_Scythe_of_Vyse_Conditions takes nothing returns boolean
+    if ( not Trig_Guinsoo_Scythe_of_Vyse_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Guinsoo_Scythe_of_Vyse_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I008'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'prvt'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D'))
+    call UnitAddItemByIdSwapped('odef', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Guinsoo_Scythe_of_Vyse takes nothing returns nothing
+    set gg_trg_Guinsoo_Scythe_of_Vyse=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Guinsoo_Scythe_of_Vyse, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Guinsoo_Scythe_of_Vyse, Condition(function Trig_Guinsoo_Scythe_of_Vyse_Conditions))
+    call TriggerAddAction(gg_trg_Guinsoo_Scythe_of_Vyse, function Trig_Guinsoo_Scythe_of_Vyse_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Hand of Midas
+//===========================================================================
+function Trig_Hand_of_Midas_Func005C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01H')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'lhst') == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Hand_of_Midas_Conditions takes nothing returns boolean
+    if ( not Trig_Hand_of_Midas_Func005C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Hand_of_Midas_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01H'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'lhst'))
+    call UnitAddItemByIdSwapped('I01F', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Hand_of_Midas takes nothing returns nothing
+    set gg_trg_Hand_of_Midas=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Hand_of_Midas, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Hand_of_Midas, Condition(function Trig_Hand_of_Midas_Conditions))
+    call TriggerAddAction(gg_trg_Hand_of_Midas, function Trig_Hand_of_Midas_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Heart of Tarrasque
+//===========================================================================
+function Trig_Heart_of_Tarrasque_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I043')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00I') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Heart_of_Tarrasque_Conditions takes nothing returns boolean
+    if ( not Trig_Heart_of_Tarrasque_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Heart_of_Tarrasque_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I043'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00I'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F'))
+    call UnitAddItemByIdSwapped('hval', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Heart_of_Tarrasque takes nothing returns nothing
+    set gg_trg_Heart_of_Tarrasque=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Heart_of_Tarrasque, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Heart_of_Tarrasque, Condition(function Trig_Heart_of_Tarrasque_Conditions))
+    call TriggerAddAction(gg_trg_Heart_of_Tarrasque, function Trig_Heart_of_Tarrasque_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Headdress of Rejuvenation
+//===========================================================================
+function Trig_Headdress_of_Rejuvenation_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I014')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00C') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Headdress_of_Rejuvenation_Conditions takes nothing returns boolean
+    if ( not Trig_Headdress_of_Rejuvenation_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Headdress_of_Rejuvenation_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I014'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00C'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012'))
+    call UnitAddItemByIdSwapped('rwiz', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Headdress_of_Rejuvenation takes nothing returns nothing
+    set gg_trg_Headdress_of_Rejuvenation=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Headdress_of_Rejuvenation, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Headdress_of_Rejuvenation, Condition(function Trig_Headdress_of_Rejuvenation_Conditions))
+    call TriggerAddAction(gg_trg_Headdress_of_Rejuvenation, function Trig_Headdress_of_Rejuvenation_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Helm of Dominator
+//===========================================================================
+function Trig_Helm_of_Dominator_Func005C takes nothing returns boolean
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00L') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'clsd')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Helm_of_Dominator_Conditions takes nothing returns boolean
+    if ( not Trig_Helm_of_Dominator_Func005C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Helm_of_Dominator_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00L'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'clsd'))
+    call UnitAddItemByIdSwapped('I027', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Helm_of_Dominator takes nothing returns nothing
+    set gg_trg_Helm_of_Dominator=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Helm_of_Dominator, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Helm_of_Dominator, Condition(function Trig_Helm_of_Dominator_Conditions))
+    call TriggerAddAction(gg_trg_Helm_of_Dominator, function Trig_Helm_of_Dominator_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Linkens Sphere
+//===========================================================================
+function Trig_Linkens_Sphere_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04C')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'sbch') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'prvt')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Linkens_Sphere_Conditions takes nothing returns boolean
+    if ( not Trig_Linkens_Sphere_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Linkens_Sphere_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04C'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'sbch'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'prvt'))
+    call UnitAddItemByIdSwapped('I04B', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Linkens_Sphere takes nothing returns nothing
+    set gg_trg_Linkens_Sphere=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Linkens_Sphere, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Linkens_Sphere, Condition(function Trig_Linkens_Sphere_Conditions))
+    call TriggerAddAction(gg_trg_Linkens_Sphere, function Trig_Linkens_Sphere_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Lothar Edge
+//===========================================================================
+function Trig_Lothar_Edge_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03B')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'ajen') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Lothar_Edge_Conditions takes nothing returns boolean
+    if ( not Trig_Lothar_Edge_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Lothar_Edge_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03B'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc'))
+    call UnitAddItemByIdSwapped('I003', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Lothar_Edge takes nothing returns nothing
+    set gg_trg_Lothar_Edge=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Lothar_Edge, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Lothar_Edge, Condition(function Trig_Lothar_Edge_Conditions))
+    call TriggerAddAction(gg_trg_Lothar_Edge, function Trig_Lothar_Edge_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Manta Style
+//===========================================================================
+function Trig_Manta_Style_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I037')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I024') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Manta_Style_Conditions takes nothing returns boolean
+    if ( not Trig_Manta_Style_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Manta_Style_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I037'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I024'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F'))
+    call UnitAddItemByIdSwapped('I039', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Manta_Style takes nothing returns nothing
+    set gg_trg_Manta_Style=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Manta_Style, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Manta_Style, Condition(function Trig_Manta_Style_Conditions))
+    call TriggerAddAction(gg_trg_Manta_Style, function Trig_Manta_Style_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Mekansm
+//===========================================================================
+function Trig_Mekansm_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02P')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'rwiz') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'mcou')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mekansm_Conditions takes nothing returns boolean
+    if ( not Trig_Mekansm_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mekansm_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02P'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rwiz'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'mcou'))
+    call UnitAddItemByIdSwapped('I02Q', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Mekansm takes nothing returns nothing
+    set gg_trg_Mekansm=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mekansm, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Mekansm, Condition(function Trig_Mekansm_Conditions))
+    call TriggerAddAction(gg_trg_Mekansm, function Trig_Mekansm_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Maelstrom
+//===========================================================================
+function Trig_Maelstrom_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I020')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'belv') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'bspd')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Maelstrom_Conditions takes nothing returns boolean
+    if ( not Trig_Maelstrom_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Maelstrom_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I020'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'belv'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'bspd'))
+    call UnitAddItemByIdSwapped('I021', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Maelstrom takes nothing returns nothing
+    set gg_trg_Maelstrom=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Maelstrom, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Maelstrom, Condition(function Trig_Maelstrom_Conditions))
+    call TriggerAddAction(gg_trg_Maelstrom, function Trig_Maelstrom_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Mask of Madness
+//===========================================================================
+function Trig_Mask_of_Madness_Func005C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I029')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00L') == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mask_of_Madness_Conditions takes nothing returns boolean
+    if ( not Trig_Mask_of_Madness_Func005C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mask_of_Madness_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I029'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00L'))
+    call UnitAddItemByIdSwapped('I02A', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Mask_of_Madness takes nothing returns nothing
+    set gg_trg_Mask_of_Madness=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mask_of_Madness, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Mask_of_Madness, Condition(function Trig_Mask_of_Madness_Conditions))
+    call TriggerAddAction(gg_trg_Mask_of_Madness, function Trig_Mask_of_Madness_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Monkey King Bar
+//===========================================================================
+function Trig_Monkey_King_Bar_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'afac')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'afac') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I007')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Monkey_King_Bar_Conditions takes nothing returns boolean
+    if ( not Trig_Monkey_King_Bar_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Monkey_King_Bar_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'afac'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I007'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'afac'))
+    call UnitAddItemByIdSwapped('gcel', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Monkey_King_Bar takes nothing returns nothing
+    set gg_trg_Monkey_King_Bar=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Monkey_King_Bar, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Monkey_King_Bar, Condition(function Trig_Monkey_King_Bar_Conditions))
+    call TriggerAddAction(gg_trg_Monkey_King_Bar, function Trig_Monkey_King_Bar_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Natherzim Buckler
+//===========================================================================
+function Trig_Natherzim_Buckler_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I016')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'crys') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Natherzim_Buckler_Conditions takes nothing returns boolean
+    if ( not Trig_Natherzim_Buckler_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Natherzim_Buckler_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I016'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'crys'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012'))
+    call UnitAddItemByIdSwapped('mcou', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Natherzim_Buckler takes nothing returns nothing
+    set gg_trg_Natherzim_Buckler=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Natherzim_Buckler, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Natherzim_Buckler, Condition(function Trig_Natherzim_Buckler_Conditions))
+    call TriggerAddAction(gg_trg_Natherzim_Buckler, function Trig_Natherzim_Buckler_Actions)
+endfunction
+
+//===========================================================================
 // Trigger: Necronomicon Level 1
 //===========================================================================
 function Trig_Necronomicon_Level_1_Func006C takes nothing returns boolean
@@ -8678,445 +9216,52 @@ function InitTrig_Necronomicon_Level_3 takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Linkens Sphere
+// Trigger: Null Talisman
 //===========================================================================
-function Trig_Linkens_Sphere_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04C')) == true ) ) then
+function Trig_Null_Talisman_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01D')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'sbch') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'cnob') == true ) ) then
         return false
     endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'prvt')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Linkens_Sphere_Conditions takes nothing returns boolean
-    if ( not Trig_Linkens_Sphere_Func006C() ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'stel')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Linkens_Sphere_Actions takes nothing returns nothing
+function Trig_Null_Talisman_Conditions takes nothing returns boolean
+    if ( not Trig_Null_Talisman_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Null_Talisman_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04C'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'sbch'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'prvt'))
-    call UnitAddItemByIdSwapped('I04B', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01D'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'cnob'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'stel'))
+    call UnitAddItemByIdSwapped('evtl', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Linkens_Sphere takes nothing returns nothing
-    set gg_trg_Linkens_Sphere=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Linkens_Sphere, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Linkens_Sphere, Condition(function Trig_Linkens_Sphere_Conditions))
-    call TriggerAddAction(gg_trg_Linkens_Sphere, function Trig_Linkens_Sphere_Actions)
+function InitTrig_Null_Talisman takes nothing returns nothing
+    set gg_trg_Null_Talisman=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Null_Talisman, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Null_Talisman, Condition(function Trig_Null_Talisman_Conditions))
+    call TriggerAddAction(gg_trg_Null_Talisman, function Trig_Null_Talisman_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Manta Style
+// Trigger: Oblivion Staff
 //===========================================================================
-function Trig_Manta_Style_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I037')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I024') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Manta_Style_Conditions takes nothing returns boolean
-    if ( not Trig_Manta_Style_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Manta_Style_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I037'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I024'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F'))
-    call UnitAddItemByIdSwapped('I039', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Manta_Style takes nothing returns nothing
-    set gg_trg_Manta_Style=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Manta_Style, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Manta_Style, Condition(function Trig_Manta_Style_Conditions))
-    call TriggerAddAction(gg_trg_Manta_Style, function Trig_Manta_Style_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Vanguard
-//===========================================================================
-function Trig_Vanguard_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00H')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I03K') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Vanguard_Conditions takes nothing returns boolean
-    if ( not Trig_Vanguard_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Vanguard_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00H'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03K'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F'))
-    call UnitAddItemByIdSwapped('I03N', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Vanguard takes nothing returns nothing
-    set gg_trg_Vanguard=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Vanguard, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Vanguard, Condition(function Trig_Vanguard_Conditions))
-    call TriggerAddAction(gg_trg_Vanguard, function Trig_Vanguard_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Stygian Desolator
-//===========================================================================
-function Trig_Stygian_Desolator_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02U')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'ajen') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Stygian_Desolator_Conditions takes nothing returns boolean
-    if ( not Trig_Stygian_Desolator_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Stygian_Desolator_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02U'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen'))
-    call UnitAddItemByIdSwapped('I02W', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Stygian_Desolator takes nothing returns nothing
-    set gg_trg_Stygian_Desolator=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Stygian_Desolator, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Stygian_Desolator, Condition(function Trig_Stygian_Desolator_Conditions))
-    call TriggerAddAction(gg_trg_Stygian_Desolator, function Trig_Stygian_Desolator_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Sange and Yasha
-//===========================================================================
-function Trig_Sange_and_Yasha_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02R')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I01P') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01S')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Sange_and_Yasha_Conditions takes nothing returns boolean
-    if ( not Trig_Sange_and_Yasha_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Sange_and_Yasha_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02R'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01P'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01S'))
-    call UnitAddItemByIdSwapped('I02T', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Sange_and_Yasha takes nothing returns nothing
-    set gg_trg_Sange_and_Yasha=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Sange_and_Yasha, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Sange_and_Yasha, Condition(function Trig_Sange_and_Yasha_Conditions))
-    call TriggerAddAction(gg_trg_Sange_and_Yasha, function Trig_Sange_and_Yasha_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Mekansm
-//===========================================================================
-function Trig_Mekansm_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02P')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'rwiz') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'mcou')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Mekansm_Conditions takes nothing returns boolean
-    if ( not Trig_Mekansm_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Mekansm_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02P'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rwiz'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'mcou'))
-    call UnitAddItemByIdSwapped('I02Q', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Mekansm takes nothing returns nothing
-    set gg_trg_Mekansm=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mekansm, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Mekansm, Condition(function Trig_Mekansm_Conditions))
-    call TriggerAddAction(gg_trg_Mekansm, function Trig_Mekansm_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Refresher Orb
-//===========================================================================
-function Trig_Refresher_Orb_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02K')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'sbch') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'penr')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Refresher_Orb_Conditions takes nothing returns boolean
-    if ( not Trig_Refresher_Orb_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Refresher_Orb_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02K'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'sbch'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'penr'))
-    call UnitAddItemByIdSwapped('I03Z', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Refresher_Orb takes nothing returns nothing
-    set gg_trg_Refresher_Orb=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Refresher_Orb, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Refresher_Orb, Condition(function Trig_Refresher_Orb_Conditions))
-    call TriggerAddAction(gg_trg_Refresher_Orb, function Trig_Refresher_Orb_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Lothar Edge
-//===========================================================================
-function Trig_Lothar_Edge_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03B')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'ajen') == true ) ) then
-        return false
-    endif
+function Trig_Oblivion_Staff_Func006C takes nothing returns boolean
     if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc')) == true ) ) then
         return false
     endif
-    return true
-endfunction
-
-function Trig_Lothar_Edge_Conditions takes nothing returns boolean
-    if ( not Trig_Lothar_Edge_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Lothar_Edge_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03B'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc'))
-    call UnitAddItemByIdSwapped('I003', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Lothar_Edge takes nothing returns nothing
-    set gg_trg_Lothar_Edge=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Lothar_Edge, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Lothar_Edge, Condition(function Trig_Lothar_Edge_Conditions))
-    call TriggerAddAction(gg_trg_Lothar_Edge, function Trig_Lothar_Edge_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Guinsoo Scythe of Vyse
-//===========================================================================
-function Trig_Guinsoo_Scythe_of_Vyse_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I008')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'prvt') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Guinsoo_Scythe_of_Vyse_Conditions takes nothing returns boolean
-    if ( not Trig_Guinsoo_Scythe_of_Vyse_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Guinsoo_Scythe_of_Vyse_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I008'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'prvt'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D'))
-    call UnitAddItemByIdSwapped('odef', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Guinsoo_Scythe_of_Vyse takes nothing returns nothing
-    set gg_trg_Guinsoo_Scythe_of_Vyse=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Guinsoo_Scythe_of_Vyse, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Guinsoo_Scythe_of_Vyse, Condition(function Trig_Guinsoo_Scythe_of_Vyse_Conditions))
-    call TriggerAddAction(gg_trg_Guinsoo_Scythe_of_Vyse, function Trig_Guinsoo_Scythe_of_Vyse_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Satanic
-//===========================================================================
-function Trig_Satanic_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02H')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I027') == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00I') == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Satanic_Conditions takes nothing returns boolean
-    if ( not Trig_Satanic_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Satanic_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02H'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I027'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00I'))
-    call UnitAddItemByIdSwapped('hcun', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Satanic takes nothing returns nothing
-    set gg_trg_Satanic=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Satanic, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Satanic, Condition(function Trig_Satanic_Conditions))
-    call TriggerAddAction(gg_trg_Satanic, function Trig_Satanic_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Yasha
-//===========================================================================
-function Trig_Yasha_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01N')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'belv') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Yasha_Conditions takes nothing returns boolean
-    if ( not Trig_Yasha_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Yasha_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01N'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'belv'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U'))
-    call UnitAddItemByIdSwapped('I01P', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Yasha takes nothing returns nothing
-    set gg_trg_Yasha=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Yasha, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Yasha, Condition(function Trig_Yasha_Conditions))
-    call TriggerAddAction(gg_trg_Yasha, function Trig_Yasha_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Diffusal Blade
-//===========================================================================
-function Trig_Diffusal_Blade_Func007C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I025')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00U') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U')) == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00K') == true ) ) then
         return false
     endif
     if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ciri')) == true ) ) then
@@ -9125,106 +9270,62 @@ function Trig_Diffusal_Blade_Func007C takes nothing returns boolean
     return true
 endfunction
 
-function Trig_Diffusal_Blade_Conditions takes nothing returns boolean
-    if ( not Trig_Diffusal_Blade_Func007C() ) then
+function Trig_Oblivion_Staff_Conditions takes nothing returns boolean
+    if ( not Trig_Oblivion_Staff_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Diffusal_Blade_Actions takes nothing returns nothing
+function Trig_Oblivion_Staff_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I025'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00K'))
     call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ciri'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U'))
-    call UnitAddItemByIdSwapped('I024', GetTriggerUnit())
+    call UnitAddItemByIdSwapped('penr', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Diffusal_Blade takes nothing returns nothing
-    set gg_trg_Diffusal_Blade=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Diffusal_Blade, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Diffusal_Blade, Condition(function Trig_Diffusal_Blade_Conditions))
-    call TriggerAddAction(gg_trg_Diffusal_Blade, function Trig_Diffusal_Blade_Actions)
+function InitTrig_Oblivion_Staff takes nothing returns nothing
+    set gg_trg_Oblivion_Staff=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Oblivion_Staff, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Oblivion_Staff, Condition(function Trig_Oblivion_Staff_Conditions))
+    call TriggerAddAction(gg_trg_Oblivion_Staff, function Trig_Oblivion_Staff_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Maelstrom
+// Trigger: Perseverance
 //===========================================================================
-function Trig_Maelstrom_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I020')) == true ) ) then
+function Trig_Perseverance_Func005C takes nothing returns boolean
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00H') == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'belv') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'bspd')) == true ) ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Maelstrom_Conditions takes nothing returns boolean
-    if ( not Trig_Maelstrom_Func006C() ) then
+function Trig_Perseverance_Conditions takes nothing returns boolean
+    if ( not Trig_Perseverance_Func005C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Maelstrom_Actions takes nothing returns nothing
+function Trig_Perseverance_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I020'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'belv'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'bspd'))
-    call UnitAddItemByIdSwapped('I021', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00H'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D'))
+    call UnitAddItemByIdSwapped('sbch', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Maelstrom takes nothing returns nothing
-    set gg_trg_Maelstrom=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Maelstrom, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Maelstrom, Condition(function Trig_Maelstrom_Conditions))
-    call TriggerAddAction(gg_trg_Maelstrom, function Trig_Maelstrom_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Sange
-//===========================================================================
-function Trig_Sange_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Q')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'bgst') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I009')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Sange_Conditions takes nothing returns boolean
-    if ( not Trig_Sange_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Sange_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Q'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'bgst'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I009'))
-    call UnitAddItemByIdSwapped('I01S', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Sange takes nothing returns nothing
-    set gg_trg_Sange=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Sange, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Sange, Condition(function Trig_Sange_Conditions))
-    call TriggerAddAction(gg_trg_Sange, function Trig_Sange_Actions)
+function InitTrig_Perseverance takes nothing returns nothing
+    set gg_trg_Perseverance=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Perseverance, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Perseverance, Condition(function Trig_Perseverance_Conditions))
+    call TriggerAddAction(gg_trg_Perseverance, function Trig_Perseverance_Actions)
 endfunction
 
 //===========================================================================
@@ -9357,38 +9458,38 @@ function InitTrig_Power_Treads_Intelligent takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Hand of Midas
+// Trigger: Ring of Basilius
 //===========================================================================
-function Trig_Hand_of_Midas_Func005C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01H')) == true ) ) then
+function Trig_Ring_of_Basilius_Func005C takes nothing returns boolean
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00K') == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'lhst') == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Hand_of_Midas_Conditions takes nothing returns boolean
-    if ( not Trig_Hand_of_Midas_Func005C() ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rde1')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Hand_of_Midas_Actions takes nothing returns nothing
+function Trig_Ring_of_Basilius_Conditions takes nothing returns boolean
+    if ( not Trig_Ring_of_Basilius_Func005C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Ring_of_Basilius_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01H'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'lhst'))
-    call UnitAddItemByIdSwapped('I01F', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00K'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rde1'))
+    call UnitAddItemByIdSwapped('rlif', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Hand_of_Midas takes nothing returns nothing
-    set gg_trg_Hand_of_Midas=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Hand_of_Midas, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Hand_of_Midas, Condition(function Trig_Hand_of_Midas_Conditions))
-    call TriggerAddAction(gg_trg_Hand_of_Midas, function Trig_Hand_of_Midas_Actions)
+function InitTrig_Ring_of_Basilius takes nothing returns nothing
+    set gg_trg_Ring_of_Basilius=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Ring_of_Basilius, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Ring_of_Basilius, Condition(function Trig_Ring_of_Basilius_Conditions))
+    call TriggerAddAction(gg_trg_Ring_of_Basilius, function Trig_Ring_of_Basilius_Actions)
 endfunction
 
 //===========================================================================
@@ -9427,194 +9528,198 @@ function InitTrig_Radiance takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Mask of Madness
+// Trigger: Refresher Orb
 //===========================================================================
-function Trig_Mask_of_Madness_Func005C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I029')) == true ) ) then
+function Trig_Refresher_Orb_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02K')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00L') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'sbch') == true ) ) then
         return false
     endif
-    return true
-endfunction
-
-function Trig_Mask_of_Madness_Conditions takes nothing returns boolean
-    if ( not Trig_Mask_of_Madness_Func005C() ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'penr')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Mask_of_Madness_Actions takes nothing returns nothing
+function Trig_Refresher_Orb_Conditions takes nothing returns boolean
+    if ( not Trig_Refresher_Orb_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Refresher_Orb_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I029'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00L'))
-    call UnitAddItemByIdSwapped('I02A', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02K'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'sbch'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'penr'))
+    call UnitAddItemByIdSwapped('I03Z', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Mask_of_Madness takes nothing returns nothing
-    set gg_trg_Mask_of_Madness=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mask_of_Madness, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Mask_of_Madness, Condition(function Trig_Mask_of_Madness_Conditions))
-    call TriggerAddAction(gg_trg_Mask_of_Madness, function Trig_Mask_of_Madness_Actions)
+function InitTrig_Refresher_Orb takes nothing returns nothing
+    set gg_trg_Refresher_Orb=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Refresher_Orb, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Refresher_Orb, Condition(function Trig_Refresher_Orb_Conditions))
+    call TriggerAddAction(gg_trg_Refresher_Orb, function Trig_Refresher_Orb_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Wraith Band
+// Trigger: Stygian Desolator
 //===========================================================================
-function Trig_Wraith_Band_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01B')) == true ) ) then
+function Trig_Stygian_Desolator_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02U')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'cnob') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'ajen') == true ) ) then
         return false
     endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rag1')) == true ) ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Wraith_Band_Conditions takes nothing returns boolean
-    if ( not Trig_Wraith_Band_Func006C() ) then
+function Trig_Stygian_Desolator_Conditions takes nothing returns boolean
+    if ( not Trig_Stygian_Desolator_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Wraith_Band_Actions takes nothing returns nothing
+function Trig_Stygian_Desolator_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01B'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'cnob'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rag1'))
-    call UnitAddItemByIdSwapped('pmna', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02U'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ajen'))
+    call UnitAddItemByIdSwapped('I02W', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Wraith_Band takes nothing returns nothing
-    set gg_trg_Wraith_Band=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Wraith_Band, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Wraith_Band, Condition(function Trig_Wraith_Band_Conditions))
-    call TriggerAddAction(gg_trg_Wraith_Band, function Trig_Wraith_Band_Actions)
+function InitTrig_Stygian_Desolator takes nothing returns nothing
+    set gg_trg_Stygian_Desolator=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Stygian_Desolator, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Stygian_Desolator, Condition(function Trig_Stygian_Desolator_Conditions))
+    call TriggerAddAction(gg_trg_Stygian_Desolator, function Trig_Stygian_Desolator_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Null Talisman
+// Trigger: Sange and Yasha
 //===========================================================================
-function Trig_Null_Talisman_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01D')) == true ) ) then
+function Trig_Sange_and_Yasha_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02R')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'cnob') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I01P') == true ) ) then
         return false
     endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'stel')) == true ) ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01S')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Null_Talisman_Conditions takes nothing returns boolean
-    if ( not Trig_Null_Talisman_Func006C() ) then
+function Trig_Sange_and_Yasha_Conditions takes nothing returns boolean
+    if ( not Trig_Sange_and_Yasha_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Null_Talisman_Actions takes nothing returns nothing
+function Trig_Sange_and_Yasha_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01D'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'cnob'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'stel'))
-    call UnitAddItemByIdSwapped('evtl', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02R'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01P'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01S'))
+    call UnitAddItemByIdSwapped('I02T', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Null_Talisman takes nothing returns nothing
-    set gg_trg_Null_Talisman=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Null_Talisman, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Null_Talisman, Condition(function Trig_Null_Talisman_Conditions))
-    call TriggerAddAction(gg_trg_Null_Talisman, function Trig_Null_Talisman_Actions)
+function InitTrig_Sange_and_Yasha takes nothing returns nothing
+    set gg_trg_Sange_and_Yasha=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Sange_and_Yasha, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Sange_and_Yasha, Condition(function Trig_Sange_and_Yasha_Conditions))
+    call TriggerAddAction(gg_trg_Sange_and_Yasha, function Trig_Sange_and_Yasha_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Natherzim Buckler
+// Trigger: Sange
 //===========================================================================
-function Trig_Natherzim_Buckler_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I016')) == true ) ) then
+function Trig_Sange_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Q')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'crys') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'bgst') == true ) ) then
         return false
     endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012')) == true ) ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I009')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Natherzim_Buckler_Conditions takes nothing returns boolean
-    if ( not Trig_Natherzim_Buckler_Func006C() ) then
+function Trig_Sange_Conditions takes nothing returns boolean
+    if ( not Trig_Sange_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Natherzim_Buckler_Actions takes nothing returns nothing
+function Trig_Sange_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I016'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'crys'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012'))
-    call UnitAddItemByIdSwapped('mcou', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Q'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'bgst'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I009'))
+    call UnitAddItemByIdSwapped('I01S', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Natherzim_Buckler takes nothing returns nothing
-    set gg_trg_Natherzim_Buckler=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Natherzim_Buckler, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Natherzim_Buckler, Condition(function Trig_Natherzim_Buckler_Conditions))
-    call TriggerAddAction(gg_trg_Natherzim_Buckler, function Trig_Natherzim_Buckler_Actions)
+function InitTrig_Sange takes nothing returns nothing
+    set gg_trg_Sange=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Sange, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Sange, Condition(function Trig_Sange_Conditions))
+    call TriggerAddAction(gg_trg_Sange, function Trig_Sange_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Headdress of Rejuvenation
+// Trigger: Satanic
 //===========================================================================
-function Trig_Headdress_of_Rejuvenation_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I014')) == true ) ) then
+function Trig_Satanic_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02H')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00C') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I027') == true ) ) then
         return false
     endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012')) == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00I') == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Headdress_of_Rejuvenation_Conditions takes nothing returns boolean
-    if ( not Trig_Headdress_of_Rejuvenation_Func006C() ) then
+function Trig_Satanic_Conditions takes nothing returns boolean
+    if ( not Trig_Satanic_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Headdress_of_Rejuvenation_Actions takes nothing returns nothing
+function Trig_Satanic_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I014'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00C'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I012'))
-    call UnitAddItemByIdSwapped('rwiz', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02H'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I027'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00I'))
+    call UnitAddItemByIdSwapped('hcun', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Headdress_of_Rejuvenation takes nothing returns nothing
-    set gg_trg_Headdress_of_Rejuvenation=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Headdress_of_Rejuvenation, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Headdress_of_Rejuvenation, Condition(function Trig_Headdress_of_Rejuvenation_Conditions))
-    call TriggerAddAction(gg_trg_Headdress_of_Rejuvenation, function Trig_Headdress_of_Rejuvenation_Actions)
+function InitTrig_Satanic takes nothing returns nothing
+    set gg_trg_Satanic=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Satanic, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Satanic, Condition(function Trig_Satanic_Conditions))
+    call TriggerAddAction(gg_trg_Satanic, function Trig_Satanic_Actions)
 endfunction
 
 //===========================================================================
@@ -9657,196 +9762,52 @@ function InitTrig_Soul_Booster takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Monkey King Bar
+// Trigger: Wraith Band
 //===========================================================================
-function Trig_Monkey_King_Bar_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'afac')) == true ) ) then
+function Trig_Wraith_Band_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01B')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'afac') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'cnob') == true ) ) then
         return false
     endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I007')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Monkey_King_Bar_Conditions takes nothing returns boolean
-    if ( not Trig_Monkey_King_Bar_Func006C() ) then
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rag1')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Monkey_King_Bar_Actions takes nothing returns nothing
+function Trig_Wraith_Band_Conditions takes nothing returns boolean
+    if ( not Trig_Wraith_Band_Func006C() ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Wraith_Band_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'afac'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I007'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'afac'))
-    call UnitAddItemByIdSwapped('gcel', GetTriggerUnit())
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01B'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'cnob'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rag1'))
+    call UnitAddItemByIdSwapped('pmna', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Monkey_King_Bar takes nothing returns nothing
-    set gg_trg_Monkey_King_Bar=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Monkey_King_Bar, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Monkey_King_Bar, Condition(function Trig_Monkey_King_Bar_Conditions))
-    call TriggerAddAction(gg_trg_Monkey_King_Bar, function Trig_Monkey_King_Bar_Actions)
+function InitTrig_Wraith_Band takes nothing returns nothing
+    set gg_trg_Wraith_Band=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Wraith_Band, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Wraith_Band, Condition(function Trig_Wraith_Band_Conditions))
+    call TriggerAddAction(gg_trg_Wraith_Band, function Trig_Wraith_Band_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Oblivion Staff
+// Trigger: Vanguard
 //===========================================================================
-function Trig_Oblivion_Staff_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc')) == true ) ) then
+function Trig_Vanguard_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00H')) == true ) ) then
         return false
     endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00K') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ciri')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Oblivion_Staff_Conditions takes nothing returns boolean
-    if ( not Trig_Oblivion_Staff_Func006C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Oblivion_Staff_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ratc'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00K'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'ciri'))
-    call UnitAddItemByIdSwapped('penr', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Oblivion_Staff takes nothing returns nothing
-    set gg_trg_Oblivion_Staff=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Oblivion_Staff, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Oblivion_Staff, Condition(function Trig_Oblivion_Staff_Conditions))
-    call TriggerAddAction(gg_trg_Oblivion_Staff, function Trig_Oblivion_Staff_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Perseverance
-//===========================================================================
-function Trig_Perseverance_Func005C takes nothing returns boolean
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00H') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Perseverance_Conditions takes nothing returns boolean
-    if ( not Trig_Perseverance_Func005C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Perseverance_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00H'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00D'))
-    call UnitAddItemByIdSwapped('sbch', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Perseverance takes nothing returns nothing
-    set gg_trg_Perseverance=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Perseverance, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Perseverance, Condition(function Trig_Perseverance_Conditions))
-    call TriggerAddAction(gg_trg_Perseverance, function Trig_Perseverance_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Helm of Dominator
-//===========================================================================
-function Trig_Helm_of_Dominator_Func005C takes nothing returns boolean
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00L') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'clsd')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Helm_of_Dominator_Conditions takes nothing returns boolean
-    if ( not Trig_Helm_of_Dominator_Func005C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Helm_of_Dominator_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00L'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'clsd'))
-    call UnitAddItemByIdSwapped('I027', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Helm_of_Dominator takes nothing returns nothing
-    set gg_trg_Helm_of_Dominator=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Helm_of_Dominator, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Helm_of_Dominator, Condition(function Trig_Helm_of_Dominator_Conditions))
-    call TriggerAddAction(gg_trg_Helm_of_Dominator, function Trig_Helm_of_Dominator_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Ring of Basilius
-//===========================================================================
-function Trig_Ring_of_Basilius_Func005C takes nothing returns boolean
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00K') == true ) ) then
-        return false
-    endif
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rde1')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Ring_of_Basilius_Conditions takes nothing returns boolean
-    if ( not Trig_Ring_of_Basilius_Func005C() ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Ring_of_Basilius_Actions takes nothing returns nothing
-    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00K'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'rde1'))
-    call UnitAddItemByIdSwapped('rlif', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Ring_of_Basilius takes nothing returns nothing
-    set gg_trg_Ring_of_Basilius=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Ring_of_Basilius, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Ring_of_Basilius, Condition(function Trig_Ring_of_Basilius_Conditions))
-    call TriggerAddAction(gg_trg_Ring_of_Basilius, function Trig_Ring_of_Basilius_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Heart of Tarrasque
-//===========================================================================
-function Trig_Heart_of_Tarrasque_Func006C takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I043')) == true ) ) then
-        return false
-    endif
-    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I00I') == true ) ) then
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'I03K') == true ) ) then
         return false
     endif
     if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F')) == true ) ) then
@@ -9855,73 +9816,66 @@ function Trig_Heart_of_Tarrasque_Func006C takes nothing returns boolean
     return true
 endfunction
 
-function Trig_Heart_of_Tarrasque_Conditions takes nothing returns boolean
-    if ( not Trig_Heart_of_Tarrasque_Func006C() ) then
+function Trig_Vanguard_Conditions takes nothing returns boolean
+    if ( not Trig_Vanguard_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Heart_of_Tarrasque_Actions takes nothing returns nothing
+function Trig_Vanguard_Actions takes nothing returns nothing
     call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I043'))
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00I'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00H'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03K'))
     call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00F'))
-    call UnitAddItemByIdSwapped('hval', GetTriggerUnit())
+    call UnitAddItemByIdSwapped('I03N', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Heart_of_Tarrasque takes nothing returns nothing
-    set gg_trg_Heart_of_Tarrasque=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Heart_of_Tarrasque, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Heart_of_Tarrasque, Condition(function Trig_Heart_of_Tarrasque_Conditions))
-    call TriggerAddAction(gg_trg_Heart_of_Tarrasque, function Trig_Heart_of_Tarrasque_Actions)
+function InitTrig_Vanguard takes nothing returns nothing
+    set gg_trg_Vanguard=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Vanguard, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Vanguard, Condition(function Trig_Vanguard_Conditions))
+    call TriggerAddAction(gg_trg_Vanguard, function Trig_Vanguard_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: The Butterfly Scroll
+// Trigger: Yasha
 //===========================================================================
-function Trig_The_Butterfly_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00X')) == true ) ) then
+function Trig_Yasha_Func006C takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01N')) == true ) ) then
+        return false
+    endif
+    if ( not ( UnitHasItemOfTypeBJ(GetTriggerUnit(), 'belv') == true ) ) then
+        return false
+    endif
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_The_Butterfly_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00X'))
-    call UnitAddItemByIdSwapped('I00Y', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_The_Butterfly_Scroll takes nothing returns nothing
-    set gg_trg_The_Butterfly_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_The_Butterfly_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_The_Butterfly_Scroll, Condition(function Trig_The_Butterfly_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_The_Butterfly_Scroll, function Trig_The_Butterfly_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Flying Courier Scroll
-//===========================================================================
-function Trig_Flying_Courier_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04K')) == true ) ) then
+function Trig_Yasha_Conditions takes nothing returns boolean
+    if ( not Trig_Yasha_Func006C() ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Flying_Courier_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04K'))
-    call UnitAddItemByIdSwapped('I04H', GetTriggerUnit())
+function Trig_Yasha_Actions takes nothing returns nothing
+    call AddSpecialEffectTargetUnitBJ("origin", GetTriggerUnit(), "Abilities\\Spells\\Items\\AIem\\AIemTarget.mdl")
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01N'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'belv'))
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00U'))
+    call UnitAddItemByIdSwapped('I01P', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Flying_Courier_Scroll takes nothing returns nothing
-    set gg_trg_Flying_Courier_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Flying_Courier_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Flying_Courier_Scroll, Condition(function Trig_Flying_Courier_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Flying_Courier_Scroll, function Trig_Flying_Courier_Scroll_Actions)
+function InitTrig_Yasha takes nothing returns nothing
+    set gg_trg_Yasha=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Yasha, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Yasha, Condition(function Trig_Yasha_Conditions))
+    call TriggerAddAction(gg_trg_Yasha, function Trig_Yasha_Actions)
 endfunction
 
 //===========================================================================
@@ -9948,75 +9902,6 @@ function InitTrig_Arcane_Ring_Scroll takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Linkens Sphere Scroll
-//===========================================================================
-function Trig_Linkens_Sphere_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04D')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Linkens_Sphere_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04D'))
-    call UnitAddItemByIdSwapped('I04C', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Linkens_Sphere_Scroll takes nothing returns nothing
-    set gg_trg_Linkens_Sphere_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Linkens_Sphere_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Linkens_Sphere_Scroll, Condition(function Trig_Linkens_Sphere_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Linkens_Sphere_Scroll, function Trig_Linkens_Sphere_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Dagon Scroll
-//===========================================================================
-function Trig_Dagon_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03F')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Dagon_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03F'))
-    call UnitAddItemByIdSwapped('I03J', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Dagon_Scroll takes nothing returns nothing
-    set gg_trg_Dagon_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Dagon_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Dagon_Scroll, Condition(function Trig_Dagon_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Dagon_Scroll, function Trig_Dagon_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Mana Style Scroll
-//===========================================================================
-function Trig_Mana_Style_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I038')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Mana_Style_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I038'))
-    call UnitAddItemByIdSwapped('I037', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Mana_Style_Scroll takes nothing returns nothing
-    set gg_trg_Mana_Style_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mana_Style_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Mana_Style_Scroll, Condition(function Trig_Mana_Style_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Mana_Style_Scroll, function Trig_Mana_Style_Scroll_Actions)
-endfunction
-
-//===========================================================================
 // Trigger: Black King Bar Scroll
 //===========================================================================
 function Trig_Black_King_Bar_Scroll_Conditions takes nothing returns boolean
@@ -10037,29 +9922,6 @@ function InitTrig_Black_King_Bar_Scroll takes nothing returns nothing
     call TriggerRegisterAnyUnitEventBJ(gg_trg_Black_King_Bar_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
     call TriggerAddCondition(gg_trg_Black_King_Bar_Scroll, Condition(function Trig_Black_King_Bar_Scroll_Conditions))
     call TriggerAddAction(gg_trg_Black_King_Bar_Scroll, function Trig_Black_King_Bar_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Crystalys Scroll
-//===========================================================================
-function Trig_Crystalys_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02Z')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Crystalys_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02Z'))
-    call UnitAddItemByIdSwapped('I030', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Crystalys_Scroll takes nothing returns nothing
-    set gg_trg_Crystalys_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Crystalys_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Crystalys_Scroll, Condition(function Trig_Crystalys_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Crystalys_Scroll, function Trig_Crystalys_Scroll_Actions)
 endfunction
 
 //===========================================================================
@@ -10086,6 +9948,52 @@ function InitTrig_Boots_of_Travel_Scroll takes nothing returns nothing
 endfunction
 
 //===========================================================================
+// Trigger: Blade Mail Scroll
+//===========================================================================
+function Trig_Blade_Mail_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01W')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Blade_Mail_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01W'))
+    call UnitAddItemByIdSwapped('I01Y', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Blade_Mail_Scroll takes nothing returns nothing
+    set gg_trg_Blade_Mail_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Blade_Mail_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Blade_Mail_Scroll, Condition(function Trig_Blade_Mail_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Blade_Mail_Scroll, function Trig_Blade_Mail_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Bracer Scroll
+//===========================================================================
+function Trig_Bracer_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I018')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Bracer_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I018'))
+    call UnitAddItemByIdSwapped('I019', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Bracer_Scroll takes nothing returns nothing
+    set gg_trg_Bracer_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Bracer_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Bracer_Scroll, Condition(function Trig_Bracer_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Bracer_Scroll, function Trig_Bracer_Scroll_Actions)
+endfunction
+
+//===========================================================================
 // Trigger: Buriza do Kyanon Scroll
 //===========================================================================
 function Trig_Buriza_do_Kyanon_Scroll_Conditions takes nothing returns boolean
@@ -10106,6 +10014,374 @@ function InitTrig_Buriza_do_Kyanon_Scroll takes nothing returns nothing
     call TriggerRegisterAnyUnitEventBJ(gg_trg_Buriza_do_Kyanon_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
     call TriggerAddCondition(gg_trg_Buriza_do_Kyanon_Scroll, Condition(function Trig_Buriza_do_Kyanon_Scroll_Conditions))
     call TriggerAddAction(gg_trg_Buriza_do_Kyanon_Scroll, function Trig_Buriza_do_Kyanon_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: The Butterfly Scroll
+//===========================================================================
+function Trig_The_Butterfly_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00X')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_The_Butterfly_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00X'))
+    call UnitAddItemByIdSwapped('I00Y', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_The_Butterfly_Scroll takes nothing returns nothing
+    set gg_trg_The_Butterfly_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_The_Butterfly_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_The_Butterfly_Scroll, Condition(function Trig_The_Butterfly_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_The_Butterfly_Scroll, function Trig_The_Butterfly_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Cranium Basher Scroll
+//===========================================================================
+function Trig_Cranium_Basher_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01T')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Cranium_Basher_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01T'))
+    call UnitAddItemByIdSwapped('I01V', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Cranium_Basher_Scroll takes nothing returns nothing
+    set gg_trg_Cranium_Basher_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Cranium_Basher_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Cranium_Basher_Scroll, Condition(function Trig_Cranium_Basher_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Cranium_Basher_Scroll, function Trig_Cranium_Basher_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Crystalys Scroll
+//===========================================================================
+function Trig_Crystalys_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02Z')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Crystalys_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02Z'))
+    call UnitAddItemByIdSwapped('I030', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Crystalys_Scroll takes nothing returns nothing
+    set gg_trg_Crystalys_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Crystalys_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Crystalys_Scroll, Condition(function Trig_Crystalys_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Crystalys_Scroll, function Trig_Crystalys_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Dagon Scroll
+//===========================================================================
+function Trig_Dagon_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03F')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Dagon_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03F'))
+    call UnitAddItemByIdSwapped('I03J', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Dagon_Scroll takes nothing returns nothing
+    set gg_trg_Dagon_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Dagon_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Dagon_Scroll, Condition(function Trig_Dagon_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Dagon_Scroll, function Trig_Dagon_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Diffusal Blade Scroll
+//===========================================================================
+function Trig_Diffusal_Blade_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I022')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Diffusal_Blade_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I022'))
+    call UnitAddItemByIdSwapped('I025', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Diffusal_Blade_Scroll takes nothing returns nothing
+    set gg_trg_Diffusal_Blade_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Diffusal_Blade_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Diffusal_Blade_Scroll, Condition(function Trig_Diffusal_Blade_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Diffusal_Blade_Scroll, function Trig_Diffusal_Blade_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Eul Scepter of Divinity Scroll
+//===========================================================================
+function Trig_Eul_Scepter_of_Divinity_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02B')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Eul_Scepter_of_Divinity_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02B'))
+    call UnitAddItemByIdSwapped('I02D', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Eul_Scepter_of_Divinity_Scroll takes nothing returns nothing
+    set gg_trg_Eul_Scepter_of_Divinity_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Eul_Scepter_of_Divinity_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Eul_Scepter_of_Divinity_Scroll, Condition(function Trig_Eul_Scepter_of_Divinity_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Eul_Scepter_of_Divinity_Scroll, function Trig_Eul_Scepter_of_Divinity_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Eye of Skadi Scroll
+//===========================================================================
+function Trig_Eye_of_Skadi_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02M')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Eye_of_Skadi_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02M'))
+    call UnitAddItemByIdSwapped('I02L', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Eye_of_Skadi_Scroll takes nothing returns nothing
+    set gg_trg_Eye_of_Skadi_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Eye_of_Skadi_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Eye_of_Skadi_Scroll, Condition(function Trig_Eye_of_Skadi_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Eye_of_Skadi_Scroll, function Trig_Eye_of_Skadi_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Flying Courier Scroll
+//===========================================================================
+function Trig_Flying_Courier_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04K')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Flying_Courier_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04K'))
+    call UnitAddItemByIdSwapped('I04H', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Flying_Courier_Scroll takes nothing returns nothing
+    set gg_trg_Flying_Courier_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Flying_Courier_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Flying_Courier_Scroll, Condition(function Trig_Flying_Courier_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Flying_Courier_Scroll, function Trig_Flying_Courier_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Headdress of Rejuvenation Scroll
+//===========================================================================
+function Trig_Headdress_of_Rejuvenation_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00Z')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Headdress_of_Rejuvenation_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00Z'))
+    call UnitAddItemByIdSwapped('I014', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Headdress_of_Rejuvenation_Scroll takes nothing returns nothing
+    set gg_trg_Headdress_of_Rejuvenation_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Headdress_of_Rejuvenation_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Headdress_of_Rejuvenation_Scroll, Condition(function Trig_Headdress_of_Rejuvenation_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Headdress_of_Rejuvenation_Scroll, function Trig_Headdress_of_Rejuvenation_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Heart of Tarrasque Scroll
+//===========================================================================
+function Trig_Heart_of_Tarrasque_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I010')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Heart_of_Tarrasque_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I010'))
+    call UnitAddItemByIdSwapped('I043', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Heart_of_Tarrasque_Scroll takes nothing returns nothing
+    set gg_trg_Heart_of_Tarrasque_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Heart_of_Tarrasque_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Heart_of_Tarrasque_Scroll, Condition(function Trig_Heart_of_Tarrasque_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Heart_of_Tarrasque_Scroll, function Trig_Heart_of_Tarrasque_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Linkens Sphere Scroll
+//===========================================================================
+function Trig_Linkens_Sphere_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04D')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Linkens_Sphere_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04D'))
+    call UnitAddItemByIdSwapped('I04C', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Linkens_Sphere_Scroll takes nothing returns nothing
+    set gg_trg_Linkens_Sphere_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Linkens_Sphere_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Linkens_Sphere_Scroll, Condition(function Trig_Linkens_Sphere_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Linkens_Sphere_Scroll, function Trig_Linkens_Sphere_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Lothar Edge Scroll
+//===========================================================================
+function Trig_Lothar_Edge_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03C')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Lothar_Edge_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03C'))
+    call UnitAddItemByIdSwapped('I03B', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Lothar_Edge_Scroll takes nothing returns nothing
+    set gg_trg_Lothar_Edge_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Lothar_Edge_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Lothar_Edge_Scroll, Condition(function Trig_Lothar_Edge_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Lothar_Edge_Scroll, function Trig_Lothar_Edge_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Maelstrom Scroll
+//===========================================================================
+function Trig_Maelstrom_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Z')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Maelstrom_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Z'))
+    call UnitAddItemByIdSwapped('I020', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Maelstrom_Scroll takes nothing returns nothing
+    set gg_trg_Maelstrom_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Maelstrom_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Maelstrom_Scroll, Condition(function Trig_Maelstrom_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Maelstrom_Scroll, function Trig_Maelstrom_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Mask of Madness Scroll
+//===========================================================================
+function Trig_Mask_of_Madness_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I028')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mask_of_Madness_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I028'))
+    call UnitAddItemByIdSwapped('I029', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Mask_of_Madness_Scroll takes nothing returns nothing
+    set gg_trg_Mask_of_Madness_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mask_of_Madness_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Mask_of_Madness_Scroll, Condition(function Trig_Mask_of_Madness_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Mask_of_Madness_Scroll, function Trig_Mask_of_Madness_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Mana Style Scroll
+//===========================================================================
+function Trig_Mana_Style_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I038')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mana_Style_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I038'))
+    call UnitAddItemByIdSwapped('I037', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Mana_Style_Scroll takes nothing returns nothing
+    set gg_trg_Mana_Style_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mana_Style_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Mana_Style_Scroll, Condition(function Trig_Mana_Style_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Mana_Style_Scroll, function Trig_Mana_Style_Scroll_Actions)
+endfunction
+
+//===========================================================================
+// Trigger: Mekansm Scroll
+//===========================================================================
+function Trig_Mekansm_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02O')) == true ) ) then
+        return false
+    endif
+    return true
+endfunction
+
+function Trig_Mekansm_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02O'))
+    call UnitAddItemByIdSwapped('I02P', GetTriggerUnit())
+endfunction
+
+//===========================================================================
+function InitTrig_Mekansm_Scroll takes nothing returns nothing
+    set gg_trg_Mekansm_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mekansm_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Mekansm_Scroll, Condition(function Trig_Mekansm_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Mekansm_Scroll, function Trig_Mekansm_Scroll_Actions)
 endfunction
 
 //===========================================================================
@@ -10178,29 +10454,6 @@ function InitTrig_Sange_and_Yasha_Scroll takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Mekansm Scroll
-//===========================================================================
-function Trig_Mekansm_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02O')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Mekansm_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02O'))
-    call UnitAddItemByIdSwapped('I02P', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Mekansm_Scroll takes nothing returns nothing
-    set gg_trg_Mekansm_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mekansm_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Mekansm_Scroll, Condition(function Trig_Mekansm_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Mekansm_Scroll, function Trig_Mekansm_Scroll_Actions)
-endfunction
-
-//===========================================================================
 // Trigger: Refresher Orb Scroll
 //===========================================================================
 function Trig_Refresher_Orb_Scroll_Conditions takes nothing returns boolean
@@ -10224,75 +10477,6 @@ function InitTrig_Refresher_Orb_Scroll takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Eul Scepter of Divinity Scroll
-//===========================================================================
-function Trig_Eul_Scepter_of_Divinity_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02B')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Eul_Scepter_of_Divinity_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02B'))
-    call UnitAddItemByIdSwapped('I02D', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Eul_Scepter_of_Divinity_Scroll takes nothing returns nothing
-    set gg_trg_Eul_Scepter_of_Divinity_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Eul_Scepter_of_Divinity_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Eul_Scepter_of_Divinity_Scroll, Condition(function Trig_Eul_Scepter_of_Divinity_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Eul_Scepter_of_Divinity_Scroll, function Trig_Eul_Scepter_of_Divinity_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Lothar Edge Scroll
-//===========================================================================
-function Trig_Lothar_Edge_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03C')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Lothar_Edge_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03C'))
-    call UnitAddItemByIdSwapped('I03B', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Lothar_Edge_Scroll takes nothing returns nothing
-    set gg_trg_Lothar_Edge_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Lothar_Edge_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Lothar_Edge_Scroll, Condition(function Trig_Lothar_Edge_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Lothar_Edge_Scroll, function Trig_Lothar_Edge_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Eye of Skadi Scroll
-//===========================================================================
-function Trig_Eye_of_Skadi_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02M')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Eye_of_Skadi_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02M'))
-    call UnitAddItemByIdSwapped('I02L', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Eye_of_Skadi_Scroll takes nothing returns nothing
-    set gg_trg_Eye_of_Skadi_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Eye_of_Skadi_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Eye_of_Skadi_Scroll, Condition(function Trig_Eye_of_Skadi_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Eye_of_Skadi_Scroll, function Trig_Eye_of_Skadi_Scroll_Actions)
-endfunction
-
-//===========================================================================
 // Trigger: Satanic Scroll
 //===========================================================================
 function Trig_Satanic_Scroll_Conditions takes nothing returns boolean
@@ -10313,121 +10497,6 @@ function InitTrig_Satanic_Scroll takes nothing returns nothing
     call TriggerRegisterAnyUnitEventBJ(gg_trg_Satanic_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
     call TriggerAddCondition(gg_trg_Satanic_Scroll, Condition(function Trig_Satanic_Scroll_Conditions))
     call TriggerAddAction(gg_trg_Satanic_Scroll, function Trig_Satanic_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Yasha Scroll
-//===========================================================================
-function Trig_Yasha_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01O')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Yasha_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01O'))
-    call UnitAddItemByIdSwapped('I01N', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Yasha_Scroll takes nothing returns nothing
-    set gg_trg_Yasha_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Yasha_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Yasha_Scroll, Condition(function Trig_Yasha_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Yasha_Scroll, function Trig_Yasha_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Diffusal Blade Scroll
-//===========================================================================
-function Trig_Diffusal_Blade_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I022')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Diffusal_Blade_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I022'))
-    call UnitAddItemByIdSwapped('I025', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Diffusal_Blade_Scroll takes nothing returns nothing
-    set gg_trg_Diffusal_Blade_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Diffusal_Blade_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Diffusal_Blade_Scroll, Condition(function Trig_Diffusal_Blade_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Diffusal_Blade_Scroll, function Trig_Diffusal_Blade_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Maelstrom Scroll
-//===========================================================================
-function Trig_Maelstrom_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Z')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Maelstrom_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01Z'))
-    call UnitAddItemByIdSwapped('I020', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Maelstrom_Scroll takes nothing returns nothing
-    set gg_trg_Maelstrom_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Maelstrom_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Maelstrom_Scroll, Condition(function Trig_Maelstrom_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Maelstrom_Scroll, function Trig_Maelstrom_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Blade Mail Scroll
-//===========================================================================
-function Trig_Blade_Mail_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01W')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Blade_Mail_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01W'))
-    call UnitAddItemByIdSwapped('I01Y', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Blade_Mail_Scroll takes nothing returns nothing
-    set gg_trg_Blade_Mail_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Blade_Mail_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Blade_Mail_Scroll, Condition(function Trig_Blade_Mail_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Blade_Mail_Scroll, function Trig_Blade_Mail_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Cranium Basher Scroll
-//===========================================================================
-function Trig_Cranium_Basher_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01T')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Cranium_Basher_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01T'))
-    call UnitAddItemByIdSwapped('I01V', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Cranium_Basher_Scroll takes nothing returns nothing
-    set gg_trg_Cranium_Basher_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Cranium_Basher_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Cranium_Basher_Scroll, Condition(function Trig_Cranium_Basher_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Cranium_Basher_Scroll, function Trig_Cranium_Basher_Scroll_Actions)
 endfunction
 
 //===========================================================================
@@ -10523,75 +10592,6 @@ function InitTrig_Radiance_Scroll takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Mask of Madness Scroll
-//===========================================================================
-function Trig_Mask_of_Madness_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I028')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Mask_of_Madness_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I028'))
-    call UnitAddItemByIdSwapped('I029', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Mask_of_Madness_Scroll takes nothing returns nothing
-    set gg_trg_Mask_of_Madness_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Mask_of_Madness_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Mask_of_Madness_Scroll, Condition(function Trig_Mask_of_Madness_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Mask_of_Madness_Scroll, function Trig_Mask_of_Madness_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Bracer Scroll
-//===========================================================================
-function Trig_Bracer_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I018')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Bracer_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I018'))
-    call UnitAddItemByIdSwapped('I019', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Bracer_Scroll takes nothing returns nothing
-    set gg_trg_Bracer_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Bracer_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Bracer_Scroll, Condition(function Trig_Bracer_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Bracer_Scroll, function Trig_Bracer_Scroll_Actions)
-endfunction
-
-//===========================================================================
-// Trigger: Wraith Band Scroll
-//===========================================================================
-function Trig_Wraith_Band_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01A')) == true ) ) then
-        return false
-    endif
-    return true
-endfunction
-
-function Trig_Wraith_Band_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01A'))
-    call UnitAddItemByIdSwapped('I01B', GetTriggerUnit())
-endfunction
-
-//===========================================================================
-function InitTrig_Wraith_Band_Scroll takes nothing returns nothing
-    set gg_trg_Wraith_Band_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Wraith_Band_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Wraith_Band_Scroll, Condition(function Trig_Wraith_Band_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Wraith_Band_Scroll, function Trig_Wraith_Band_Scroll_Actions)
-endfunction
-
-//===========================================================================
 // Trigger: Null Talisman Scroll
 //===========================================================================
 function Trig_Null_Talisman_Scroll_Conditions takes nothing returns boolean
@@ -10638,49 +10638,49 @@ function InitTrig_Natherzim_Buckler_Scroll takes nothing returns nothing
 endfunction
 
 //===========================================================================
-// Trigger: Headdress of Rejuvenation Scroll
+// Trigger: Wraith Band Scroll
 //===========================================================================
-function Trig_Headdress_of_Rejuvenation_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00Z')) == true ) ) then
+function Trig_Wraith_Band_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01A')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Headdress_of_Rejuvenation_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00Z'))
-    call UnitAddItemByIdSwapped('I014', GetTriggerUnit())
+function Trig_Wraith_Band_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01A'))
+    call UnitAddItemByIdSwapped('I01B', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Headdress_of_Rejuvenation_Scroll takes nothing returns nothing
-    set gg_trg_Headdress_of_Rejuvenation_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Headdress_of_Rejuvenation_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Headdress_of_Rejuvenation_Scroll, Condition(function Trig_Headdress_of_Rejuvenation_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Headdress_of_Rejuvenation_Scroll, function Trig_Headdress_of_Rejuvenation_Scroll_Actions)
+function InitTrig_Wraith_Band_Scroll takes nothing returns nothing
+    set gg_trg_Wraith_Band_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Wraith_Band_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Wraith_Band_Scroll, Condition(function Trig_Wraith_Band_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Wraith_Band_Scroll, function Trig_Wraith_Band_Scroll_Actions)
 endfunction
 
 //===========================================================================
-// Trigger: Heart of Tarrasque Scroll
+// Trigger: Yasha Scroll
 //===========================================================================
-function Trig_Heart_of_Tarrasque_Scroll_Conditions takes nothing returns boolean
-    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I010')) == true ) ) then
+function Trig_Yasha_Scroll_Conditions takes nothing returns boolean
+    if ( not ( IsItemOwned(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01O')) == true ) ) then
         return false
     endif
     return true
 endfunction
 
-function Trig_Heart_of_Tarrasque_Scroll_Actions takes nothing returns nothing
-    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I010'))
-    call UnitAddItemByIdSwapped('I043', GetTriggerUnit())
+function Trig_Yasha_Scroll_Actions takes nothing returns nothing
+    call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01O'))
+    call UnitAddItemByIdSwapped('I01N', GetTriggerUnit())
 endfunction
 
 //===========================================================================
-function InitTrig_Heart_of_Tarrasque_Scroll takes nothing returns nothing
-    set gg_trg_Heart_of_Tarrasque_Scroll=CreateTrigger()
-    call TriggerRegisterAnyUnitEventBJ(gg_trg_Heart_of_Tarrasque_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
-    call TriggerAddCondition(gg_trg_Heart_of_Tarrasque_Scroll, Condition(function Trig_Heart_of_Tarrasque_Scroll_Conditions))
-    call TriggerAddAction(gg_trg_Heart_of_Tarrasque_Scroll, function Trig_Heart_of_Tarrasque_Scroll_Actions)
+function InitTrig_Yasha_Scroll takes nothing returns nothing
+    set gg_trg_Yasha_Scroll=CreateTrigger()
+    call TriggerRegisterAnyUnitEventBJ(gg_trg_Yasha_Scroll, EVENT_PLAYER_UNIT_PICKUP_ITEM)
+    call TriggerAddCondition(gg_trg_Yasha_Scroll, Condition(function Trig_Yasha_Scroll_Conditions))
+    call TriggerAddAction(gg_trg_Yasha_Scroll, function Trig_Yasha_Scroll_Actions)
 endfunction
 
 //===========================================================================
@@ -12548,78 +12548,78 @@ function InitCustomTriggers takes nothing returns nothing
     call InitTrig_Dagon_4()
     call InitTrig_Dagon_5()
     call InitTrig_Divine_Rapier()
+    call InitTrig_Diffusal_Blade()
     call InitTrig_Eye_of_Skadi()
     call InitTrig_Eul_Scepter_of_Divinity()
     call InitTrig_Flying_Courier()
+    call InitTrig_Guinsoo_Scythe_of_Vyse()
+    call InitTrig_Hand_of_Midas()
+    call InitTrig_Heart_of_Tarrasque()
+    call InitTrig_Headdress_of_Rejuvenation()
+    call InitTrig_Helm_of_Dominator()
+    call InitTrig_Linkens_Sphere()
+    call InitTrig_Lothar_Edge()
+    call InitTrig_Manta_Style()
+    call InitTrig_Mekansm()
+    call InitTrig_Maelstrom()
+    call InitTrig_Mask_of_Madness()
+    call InitTrig_Monkey_King_Bar()
+    call InitTrig_Natherzim_Buckler()
     call InitTrig_Necronomicon_Level_1()
     call InitTrig_Necronomicon_Level_2()
     call InitTrig_Necronomicon_Level_3()
-    call InitTrig_Linkens_Sphere()
-    call InitTrig_Manta_Style()
-    call InitTrig_Vanguard()
-    call InitTrig_Stygian_Desolator()
-    call InitTrig_Sange_and_Yasha()
-    call InitTrig_Mekansm()
-    call InitTrig_Refresher_Orb()
-    call InitTrig_Lothar_Edge()
-    call InitTrig_Guinsoo_Scythe_of_Vyse()
-    call InitTrig_Satanic()
-    call InitTrig_Yasha()
-    call InitTrig_Diffusal_Blade()
-    call InitTrig_Maelstrom()
-    call InitTrig_Sange()
+    call InitTrig_Null_Talisman()
+    call InitTrig_Oblivion_Staff()
+    call InitTrig_Perseverance()
     call InitTrig_Power_Treads_Strength()
     call InitTrig_Power_Treads_Agility()
     call InitTrig_Power_Treads_Intelligent()
-    call InitTrig_Hand_of_Midas()
-    call InitTrig_Radiance()
-    call InitTrig_Mask_of_Madness()
-    call InitTrig_Wraith_Band()
-    call InitTrig_Null_Talisman()
-    call InitTrig_Natherzim_Buckler()
-    call InitTrig_Headdress_of_Rejuvenation()
-    call InitTrig_Soul_Booster()
-    call InitTrig_Monkey_King_Bar()
-    call InitTrig_Oblivion_Staff()
-    call InitTrig_Perseverance()
-    call InitTrig_Helm_of_Dominator()
     call InitTrig_Ring_of_Basilius()
-    call InitTrig_Heart_of_Tarrasque()
-    call InitTrig_The_Butterfly_Scroll()
-    call InitTrig_Flying_Courier_Scroll()
+    call InitTrig_Radiance()
+    call InitTrig_Refresher_Orb()
+    call InitTrig_Stygian_Desolator()
+    call InitTrig_Sange_and_Yasha()
+    call InitTrig_Sange()
+    call InitTrig_Satanic()
+    call InitTrig_Soul_Booster()
+    call InitTrig_Wraith_Band()
+    call InitTrig_Vanguard()
+    call InitTrig_Yasha()
     call InitTrig_Arcane_Ring_Scroll()
-    call InitTrig_Linkens_Sphere_Scroll()
-    call InitTrig_Dagon_Scroll()
-    call InitTrig_Mana_Style_Scroll()
     call InitTrig_Black_King_Bar_Scroll()
-    call InitTrig_Crystalys_Scroll()
     call InitTrig_Boots_of_Travel_Scroll()
+    call InitTrig_Blade_Mail_Scroll()
+    call InitTrig_Bracer_Scroll()
     call InitTrig_Buriza_do_Kyanon_Scroll()
+    call InitTrig_The_Butterfly_Scroll()
+    call InitTrig_Cranium_Basher_Scroll()
+    call InitTrig_Crystalys_Scroll()
+    call InitTrig_Dagon_Scroll()
+    call InitTrig_Diffusal_Blade_Scroll()
+    call InitTrig_Eul_Scepter_of_Divinity_Scroll()
+    call InitTrig_Eye_of_Skadi_Scroll()
+    call InitTrig_Flying_Courier_Scroll()
+    call InitTrig_Headdress_of_Rejuvenation_Scroll()
+    call InitTrig_Heart_of_Tarrasque_Scroll()
+    call InitTrig_Linkens_Sphere_Scroll()
+    call InitTrig_Lothar_Edge_Scroll()
+    call InitTrig_Maelstrom_Scroll()
+    call InitTrig_Mask_of_Madness_Scroll()
+    call InitTrig_Mana_Style_Scroll()
+    call InitTrig_Mekansm_Scroll()
     call InitTrig_Necronomicon_Scroll()
     call InitTrig_Stygian_Desolator_Scroll()
     call InitTrig_Sange_and_Yasha_Scroll()
-    call InitTrig_Mekansm_Scroll()
     call InitTrig_Refresher_Orb_Scroll()
-    call InitTrig_Eul_Scepter_of_Divinity_Scroll()
-    call InitTrig_Lothar_Edge_Scroll()
-    call InitTrig_Eye_of_Skadi_Scroll()
     call InitTrig_Satanic_Scroll()
-    call InitTrig_Yasha_Scroll()
-    call InitTrig_Diffusal_Blade_Scroll()
-    call InitTrig_Maelstrom_Scroll()
-    call InitTrig_Blade_Mail_Scroll()
-    call InitTrig_Cranium_Basher_Scroll()
     call InitTrig_Sange_Scroll()
     call InitTrig_Power_Treads_Scroll()
     call InitTrig_Hand_of_Midas_Scroll()
     call InitTrig_Radiance_Scroll()
-    call InitTrig_Mask_of_Madness_Scroll()
-    call InitTrig_Bracer_Scroll()
-    call InitTrig_Wraith_Band_Scroll()
     call InitTrig_Null_Talisman_Scroll()
     call InitTrig_Natherzim_Buckler_Scroll()
-    call InitTrig_Headdress_of_Rejuvenation_Scroll()
-    call InitTrig_Heart_of_Tarrasque_Scroll()
+    call InitTrig_Wraith_Band_Scroll()
+    call InitTrig_Yasha_Scroll()
     call InitTrig_Regrow_Trees_Setup()
     call InitTrig_RegrowTrees()
     call InitTrig_Goblin_Shop()
