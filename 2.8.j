@@ -1565,7 +1565,7 @@ endfunction
 function Trig_Mapinfo_Actions takes nothing returns nothing
     call CreateQuestBJ(bj_QUESTTYPE_REQ_DISCOVERED, "TRIGSTR_1025", "TRIGSTR_1062", "ReplaceableTextures\\CommandButtons\\BTNNightElfBuild.blp")
     call CreateQuestBJ(bj_QUESTTYPE_REQ_DISCOVERED, "TRIGSTR_1108", "TRIGSTR_1174", "ReplaceableTextures\\WorldEditUI\\Editor-Random-Building.blp")
-    call CreateQuestBJ(bj_QUESTTYPE_OPT_DISCOVERED, "TRIGSTR_2510", "TRIGSTR_2511", "ReplaceableTextures\\CommandButtons\\BTNPillage.blp")
+    call CreateQuestBJ(bj_QUESTTYPE_OPT_DISCOVERED, "TRIGSTR_2510", "TRIGSTR_1238", "ReplaceableTextures\\CommandButtons\\BTNPillage.blp")
     call CreateQuestBJ(bj_QUESTTYPE_OPT_DISCOVERED, "TRIGSTR_1575", "TRIGSTR_1598", "ReplaceableTextures\\CommandButtons\\BTNPillage.blp")
 endfunction
 
@@ -1823,7 +1823,7 @@ function Trig_Victory_Scourge_Func002002 takes nothing returns nothing
 endfunction
 
 function Trig_Victory_Scourge_Func003002 takes nothing returns nothing
-    call CustomDefeatBJ(GetEnumPlayer(), "TRIGSTR_058")
+    call CustomDefeatBJ(GetEnumPlayer(), "TRIGSTR_057")
 endfunction
 
 function Trig_Victory_Scourge_Actions takes nothing returns nothing
@@ -2723,7 +2723,7 @@ endfunction
 function Trig_Command_All_Random_Actions takes nothing returns nothing
     set udg_GameMode=udg_MODE_AllRandom_AllPick
     call DisplayTimedTextToForce(GetPlayersAll(), 20.00, ( ( "|cff0033ff" + GetPlayerName(Player(1)) ) + " |rhas selected |cff6699ccAll Random|r" ))
-    call DisplayTimedTextToForce(GetPlayersAll(), 20.00, "TRIGSTR_2554")
+    call DisplayTimedTextToForce(GetPlayersAll(), 20.00, "TRIGSTR_2537")
     call ForForce(udg_Players, function Trig_Command_All_Random_Func005A)
 endfunction
 
@@ -2770,7 +2770,7 @@ endfunction
 function Trig_Command_Reverse_Actions takes nothing returns nothing
     set udg_GameMode=udg_MODE_Reverse
     call DisplayTimedTextToForce(GetPlayersAll(), 20.00, ( ( "|cff0033ff" + GetPlayerName(Player(1)) ) + " |rhas selected |cff6699ccReverse|r" ))
-    call DisplayTimedTextToForce(GetPlayersAll(), 20.00, "TRIGSTR_2556")
+    call DisplayTimedTextToForce(GetPlayersAll(), 20.00, "TRIGSTR_2537")
     call ForForce(udg_PlayersSentinel, function Trig_Command_Reverse_Func004A)
     call ForForce(udg_PlayersScourge, function Trig_Command_Reverse_Func005A)
     set bj_forLoopAIndex=1
@@ -3356,7 +3356,7 @@ endfunction
 function Trig_Revive_Hero_Tavern_Actions takes nothing returns nothing
     call GroupRemoveUnitSimple(GetRevivingUnit(), udg_RevivableHeroes)
     if ( Trig_Revive_Hero_Tavern_Func002C() ) then
-        call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 2, udg_Multiboard_Spots[GetConvertedPlayerId(GetOwningPlayer(GetRevivingUnit()))], "TRIGSTR_365")
+        call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 2, udg_Multiboard_Spots[GetConvertedPlayerId(GetOwningPlayer(GetRevivingUnit()))], "TRIGSTR_084")
     else
         call DestroyTimerDialogBJ(udg_RevivableTimersWindows[GetConvertedPlayerId(GetOwningPlayer(GetRevivingUnit()))])
     endif
@@ -4048,7 +4048,7 @@ function Trig_Death_Match_Actions takes nothing returns nothing
     set udg_DeathMatch[udg_TempInteger]=( udg_DeathMatch[udg_TempInteger] - 1 )
     if ( Trig_Death_Match_Func003C() ) then
         call QuestMessageBJ(udg_Players, bj_QUESTMESSAGE_ALWAYSHINT, ( GetPlayerName(GetOwningPlayer(GetDyingUnit())) + " has died too often." ))
-        call CustomDefeatBJ(GetOwningPlayer(GetDyingUnit()), "TRIGSTR_366")
+        call CustomDefeatBJ(GetOwningPlayer(GetDyingUnit()), "TRIGSTR_057")
     else
     endif
 endfunction
@@ -5414,7 +5414,7 @@ endfunction
 function Trig_Repick_Scourge_Actions takes nothing returns nothing
     call EnableTrigger(gg_trg_Player_2_Move_Heroes)
     call DisableTrigger(gg_trg_Spawnable_Tavern)
-    call QuestMessageBJ(GetPlayersEnemies(GetTriggerPlayer()), bj_QUESTMESSAGE_ALWAYSHINT, "TRIGSTR_363")
+    call QuestMessageBJ(GetPlayersEnemies(GetTriggerPlayer()), bj_QUESTMESSAGE_ALWAYSHINT, "TRIGSTR_362")
     call ForGroupBJ(GetUnitsOfPlayerMatching(GetTriggerPlayer(), Condition(function Trig_Repick_Scourge_Func006001002)), function Trig_Repick_Scourge_Func006A)
     set udg_Player_Already_Picked[GetConvertedPlayerId(GetTriggerPlayer())]=( udg_Player_Already_Picked[GetConvertedPlayerId(GetTriggerPlayer())] + 1 )
     call AdjustPlayerStateBJ(udg_Repick_Cost_Ammount, GetTriggerPlayer(), PLAYER_STATE_RESOURCE_GOLD)
@@ -5481,7 +5481,7 @@ endfunction
 
 function Trig_Repick_All_Heroes_Actions takes nothing returns nothing
     call DisableTrigger(gg_trg_Spawnable_Tavern)
-    call QuestMessageBJ(GetPlayersEnemies(GetTriggerPlayer()), bj_QUESTMESSAGE_ALWAYSHINT, "TRIGSTR_364")
+    call QuestMessageBJ(GetPlayersEnemies(GetTriggerPlayer()), bj_QUESTMESSAGE_ALWAYSHINT, "TRIGSTR_362")
     call ForGroupBJ(GetUnitsOfPlayerMatching(GetTriggerPlayer(), Condition(function Trig_Repick_All_Heroes_Func005001002)), function Trig_Repick_All_Heroes_Func005A)
     set udg_Player_Already_Picked[GetConvertedPlayerId(GetTriggerPlayer())]=( udg_Player_Already_Picked[GetConvertedPlayerId(GetTriggerPlayer())] + 1 )
     call AdjustPlayerStateBJ(udg_Repick_Cost_Ammount, GetTriggerPlayer(), PLAYER_STATE_RESOURCE_GOLD)
@@ -5772,9 +5772,9 @@ function Trig_Create_Multiboard_Actions takes nothing returns nothing
     set udg_TempInteger=( CountPlayersInForceBJ(udg_PlayersSentinel) + 4 )
     set udg_Multiboard_Spots[7]=udg_TempInteger
     call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 1, udg_TempInteger, udg_PlayerNames[7])
-    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 2, udg_TempInteger, "TRIGSTR_087")
-    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 3, udg_TempInteger, "TRIGSTR_088")
-    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 4, udg_TempInteger, "TRIGSTR_089")
+    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 2, udg_TempInteger, "TRIGSTR_084")
+    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 3, udg_TempInteger, "TRIGSTR_085")
+    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 4, udg_TempInteger, "TRIGSTR_086")
     // Clock
     set udg_Multiboard_Clock=( udg_PlayersCount + 6 )
     call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 1, udg_Multiboard_Clock, "TRIGSTR_090")
@@ -5952,7 +5952,7 @@ endfunction
 function Trig_Sort_Multiboard_Func008A takes nothing returns nothing
     set udg_TempInteger=GetConvertedPlayerId(GetEnumPlayer())
     call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 1, udg_Multiboard_Spots[udg_TempInteger], udg_PlayerNames[udg_TempInteger])
-    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 2, udg_Multiboard_Spots[udg_TempInteger], "TRIGSTR_092")
+    call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 2, udg_Multiboard_Spots[udg_TempInteger], "TRIGSTR_084")
     call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 3, udg_Multiboard_Spots[udg_TempInteger], ( " " + I2S(udg_Score_Kills[udg_TempInteger]) ))
     call MultiboardSetItemValueBJ(GetLastCreatedMultiboard(), 4, udg_Multiboard_Spots[udg_TempInteger], ( "  " + I2S(udg_Score_Deaths[udg_TempInteger]) ))
 endfunction
@@ -7264,7 +7264,7 @@ function Trig_Artifact_items_Actions takes nothing returns nothing
     if ( Trig_Artifact_items_Func001C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03L'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1530")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func002C() ) then
@@ -7276,67 +7276,67 @@ function Trig_Artifact_items_Actions takes nothing returns nothing
     if ( Trig_Artifact_items_Func003C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I017'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1197")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func004C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I01E'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1199")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func005C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I013'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1201")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func006C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I023'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1206")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func007C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I026'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1207")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func008C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02J'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1209")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func009C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I011'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1212")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func010C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02X'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1213")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func011C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I02N'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1217")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func012C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I03V'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1219")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
     if ( Trig_Artifact_items_Func013C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I04E'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1328")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1196")
     else
     endif
 endfunction
@@ -7369,7 +7369,7 @@ function Trig_Dagger_cant_carry_by_VS_Actions takes nothing returns nothing
     if ( Trig_Dagger_cant_carry_by_VS_Func002C() ) then
         call RemoveItem(GetItemOfTypeFromUnitBJ(GetTriggerUnit(), 'I00W'))
         call PlaySoundOnUnitBJ(gg_snd_Error, 100, GetTriggerUnit())
-        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1646")
+        call DisplayTimedTextToForce(GetPlayersByMapControl(GetPlayerController(GetTriggerPlayer())), 1.50, "TRIGSTR_1195")
     else
     endif
 endfunction
@@ -11540,7 +11540,7 @@ endfunction
 // Trigger: Owning HalfGod
 //===========================================================================
 function Trig_Owning_HalfGod_Actions takes nothing returns nothing
-    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_830")
+    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_829")
     call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_831")
     call PlaySoundBJ(gg_snd_Ownage)
     call DisableTrigger(GetTriggeringTrigger())
@@ -11558,7 +11558,7 @@ endfunction
 // Trigger: Owning God
 //===========================================================================
 function Trig_Owning_God_Actions takes nothing returns nothing
-    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_832")
+    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_829")
     call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_833")
     call PlaySoundBJ(gg_snd_Ownage)
     call DisableTrigger(GetTriggeringTrigger())
@@ -11576,7 +11576,7 @@ endfunction
 // Trigger: Owning UltimateGod
 //===========================================================================
 function Trig_Owning_UltimateGod_Actions takes nothing returns nothing
-    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_834")
+    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_829")
     call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_835")
     call PlaySoundBJ(gg_snd_Ownage)
     call DisableTrigger(GetTriggeringTrigger())
@@ -12287,7 +12287,7 @@ endfunction
 // Trigger: Owning HalfGod 2
 //===========================================================================
 function Trig_Owning_HalfGod_2_Actions takes nothing returns nothing
-    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_673")
+    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_374")
     call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_674")
     call PlaySoundBJ(gg_snd_Ownage)
     call DisableTrigger(GetTriggeringTrigger())
@@ -12305,7 +12305,7 @@ endfunction
 // Trigger: Owning God 2
 //===========================================================================
 function Trig_Owning_God_2_Actions takes nothing returns nothing
-    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_785")
+    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_374")
     call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_805")
     call PlaySoundBJ(gg_snd_Ownage)
     call DisableTrigger(GetTriggeringTrigger())
@@ -12323,7 +12323,7 @@ endfunction
 // Trigger: Owning UltimateGod 2
 //===========================================================================
 function Trig_Owning_UltimateGod_2_Actions takes nothing returns nothing
-    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_808")
+    call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_374")
     call DisplayTextToForce(GetPlayersAll(), "TRIGSTR_828")
     call PlaySoundBJ(gg_snd_Ownage)
     call DisableTrigger(GetTriggeringTrigger())
